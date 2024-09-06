@@ -1,0 +1,8 @@
+# Fabrication and backup folders
+pcb_files/production/
+pcb_files/65_natyan-backups
+
+# Files
+*.kicad_prl
+*.step
+fp-info-cache
